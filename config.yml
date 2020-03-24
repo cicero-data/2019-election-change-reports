@@ -1,0 +1,34 @@
+#CSV file with 
+changefilename: 'chamber-change-all.csv'
+
+# Identifier field with name of each chamber (should be the same in both CSV results and GeoJSON boundaries file)
+chamberIdentifier: 'state'
+
+# Column name from CSV file with the formatted name of each chamber
+chamberName: 'name_formal'
+
+
+# Name of first party (left)
+partyLeftName: 'Democrats'
+# Name of second party (right)
+partyRightName: 'Republicans'
+# Name of other party 
+partyOtherName: 'Other'
+
+redistrictedChambers:
+    - '2487'
+    - '5452'
+    - '3622'
+    - '5472'
+
+# GeoJSON file with district boundaries
+geojson: 'districts.geojson'
+
+
+#Change report geometries
+localcentgeojson: 'geometry/local.geojson'
+statepolygeojson: 'geometry/us.geojson'
+
+
+# Output directory for saving infographics
+outputDirectory: 'change-reports'

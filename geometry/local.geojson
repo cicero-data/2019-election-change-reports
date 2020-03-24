@@ -1,0 +1,5195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NY",
+        "city": "Yonkers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8673152166216,
+          40.9466033579389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MA",
+        "city": "Worcester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8079407089176,
+          42.2705432881521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NJ",
+        "city": "Woodbridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2933643587138,
+          40.5608264624606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Winston-Salem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2549303139558,
+          36.1075484220241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Wilmington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8860775899053,
+          34.2100015857209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Wichita Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5293211002638,
+          33.9072683490251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "KS",
+        "city": "Wichita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33823726177,
+          37.692659949554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Westminster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06240786631,
+          39.8836695983591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "UT",
+        "city": "West Valley City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.011457648142,
+          40.688890338711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "West Palm Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1318580468877,
+          26.7467490688806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "UT",
+        "city": "West Jordan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.00067126073,
+          40.6024937096908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "West Covina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.911282074437,
+          34.0554415407658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CT",
+        "city": "Waterbury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0361558274566,
+          41.558220885332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "DC",
+        "city": "Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0162435917199,
+          38.9048587387892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MI",
+        "city": "Warren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0270075287372,
+          42.4934233017383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Wake County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6502614658345,
+          35.7903027427764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Waco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1884433718191,
+          31.5595918625632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Vista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.238520856745,
+          33.189695674897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Virginia Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0373346231656,
+          36.7379047231525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Victorville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.353716839168,
+          34.527702395327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Ventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.231336465729,
+          34.2740405043301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CA",
+        "state": "BC",
+        "city": "Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.106946557464,
+          49.2514423140516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.597009437731,
+          45.6351719510632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Vallejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.264315792627,
+          38.1079447998049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Tyler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3064675575778,
+          32.3180582391587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OK",
+        "city": "Tulsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9034339608668,
+          36.1278811552153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Tucson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.877210947274,
+          32.1564946893771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Torrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.341641570033,
+          33.8345991798881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CA",
+        "state": "ON",
+        "city": "Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3903445329426,
+          43.7220520001577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "KS",
+        "city": "Topeka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6955455456049,
+          39.0347078808699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OH",
+        "city": "Toledo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.582940862306,
+          41.665307057103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Thousand Oaks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.875572628662,
+          34.1913575515015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Thornton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.944299605908,
+          39.9203873809764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Tempe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93177782,
+          33.388119567562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Temecula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.131455007441,
+          33.492768022968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Tampa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4764313655616,
+          27.966523113984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Tallahassee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2526550080788,
+          30.4549170125467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Tacoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.459601522322,
+          47.2517587538412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NY",
+        "city": "Syracuse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1437311223041,
+          43.0406904826699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Surprise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.451939917278,
+          33.6799533255119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Sunnyvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02649704791,
+          37.3856915017489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Stockton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.306934243132,
+          37.9711945217734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MI",
+        "city": "Sterling Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030368089749,
+          42.58098528413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CT",
+        "city": "Stamford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5591093675797,
+          41.1048907131947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "St. Petersburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6639967978977,
+          27.7951607887081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MN",
+        "city": "St. Paul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.103863272642,
+          44.9477439528554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "St. Louis county"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4436015703586,
+          38.640398014408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "St. Louis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.245107335395,
+          38.635824342981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "St. Charles County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6749029961169,
+          38.7819243728527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Springfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6541069946623,
+          39.7715181819068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MA",
+        "city": "Springfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5396778201313,
+          42.1153756589698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "Springfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.291561554607,
+          37.1943040368552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Spokane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.415342063993,
+          47.6734193023585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IN",
+        "city": "South Bend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2691130393716,
+          41.6770875446432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "SD",
+        "city": "Sioux Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.732041854801,
+          43.5383490360916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Simi Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.748991988954,
+          34.2662451404883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "LA",
+        "city": "Shreveport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7960983729852,
+          32.4660443883798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.351294287157,
+          47.6200695721442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Scottsdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.865029242069,
+          33.6872302454407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "GA",
+        "city": "Savannah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1782965798305,
+          32.0276827176457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Santa Rosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.706000192596,
+          38.4464429262076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Santa Maria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.443270212892,
+          34.9335405391867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Santa Clarita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.503525720119,
+          34.4119144842516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Santa Clara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.967925959435,
+          37.3646326515061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Santa Ana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.881897682835,
+          33.7367804475695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "GA",
+        "city": "Sandy Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3703197101533,
+          33.9366669851745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "San Mateo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311054240391,
+          37.5603579557215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "San Jose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8106245655,
+          37.281678604344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "San Francisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.441015806759,
+          37.7559045325282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "San Diego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.122314263424,
+          32.8314484619744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "San Bernardino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.295723574482,
+          34.1393992976043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "San Antonio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5239279009557,
+          29.4644475498782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "San Angelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.45012073948,
+          31.4426443838374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "UT",
+        "city": "Salt Lake City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929997024011,
+          40.7778348253178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Salinas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.631762757126,
+          36.6883757709579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OR",
+        "city": "Salem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02449476207,
+          44.9232105772126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Sacramento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.467590967456,
+          38.5656945003637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Round Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6661128683623,
+          30.5253925639165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Roseville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.318025797915,
+          38.7691095083269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Rockford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.064206496569,
+          42.2597449484476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MN",
+        "city": "Rochester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4777519573645,
+          44.015178508765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NY",
+        "city": "Rochester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6161826042541,
+          43.1678964115922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Riverside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.397213934069,
+          33.9394095408692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Richmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.360264848587,
+          37.9517718997158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Richmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.475523759259,
+          37.5294655513563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Richardson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7093045479518,
+          32.9716569252982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Rialto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.388510005119,
+          34.112772051781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Renton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.190340665367,
+          47.4758597024732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NV",
+        "city": "Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.848594809594,
+          39.5486485586587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Rancho Cucamonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.566175868639,
+          34.1245895570527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Raleigh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6481838336427,
+          35.8331837366505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Pueblo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.613054823584,
+          38.2706280442587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "UT",
+        "city": "Provo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.645709624641,
+          40.245715210731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "RI",
+        "city": "Providence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4186026829979,
+          41.8228848624573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MD",
+        "city": "Prince Georges County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8448678742077,
+          38.8327317355184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OR",
+        "city": "Portland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.650414537674,
+          45.5370913129351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Port St. Lucie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3882095831272,
+          27.2795484729314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Pompano Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1294117105694,
+          26.2426042167752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Pomona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.762548888995,
+          34.0585091128175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Plano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.748687524146,
+          33.0502364910076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Pittsburgh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.976259882482,
+          40.4395767072254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Phoenix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.088536666523,
+          33.5731887027101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Philadelphia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1341880205672,
+          40.0075776724304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.298920123295,
+          33.7844208760965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6153636469884,
+          40.7518343226943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Pembroke Pines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3384629505724,
+          26.0127436936312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Pearland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3200788346492,
+          29.5585186607703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NJ",
+        "city": "Paterson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1623724732305,
+          40.9146857420464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Pasadena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.138659040181,
+          34.1593244282931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Pasadena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1497706622751,
+          29.6582598165442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Palmdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.105772348444,
+          34.5944899951187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Palm Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6627728666747,
+          27.9860696861678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Oxnard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.181851702541,
+          34.1958228507065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "KS",
+        "city": "Overland Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6870344789559,
+          38.8870143295609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CA",
+        "state": "ON",
+        "city": "Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7758705924255,
+          45.2935713138799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Orlando"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3446123318626,
+          28.4799476111843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OR",
+        "city": "Oregon Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661313262733,
+          45.4825598769163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82182138118,
+          33.8038228083091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.606420056535,
+          34.0392720908089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NE",
+        "city": "Omaha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0495968120325,
+          41.2627015310997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "KS",
+        "city": "Olathe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8195498683261,
+          38.8837265014294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OK",
+        "city": "Oklahoma City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.513465156376,
+          35.467660577279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Odessa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.341141731675,
+          31.883798092401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Oceanside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.308427530389,
+          33.2246873130364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Oakland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.224829312547,
+          37.7699407417055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Norwalk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.082907393279,
+          33.9068789171438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NV",
+        "city": "North Las Vegas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.088880951687,
+          36.288250613889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "SC",
+        "city": "North Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0721291316666,
+          32.909624989144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OK",
+        "city": "Norman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3472544961977,
+          35.2334759342733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Norfolk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2634235360152,
+          36.8961930891602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Newport News"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5164593650932,
+          37.0760682912641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NJ",
+        "city": "Newark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1725451797106,
+          40.7244765147766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NY",
+        "city": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8665241949461,
+          40.8526274664196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "LA",
+        "city": "New Orleans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.930826697376,
+          30.0685221205156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CT",
+        "city": "New Haven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9244758481946,
+          41.3108789788101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TN",
+        "city": "Nashville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7847981744554,
+          36.1695076804475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Naples"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7948698073858,
+          26.15021910656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Naperville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1656283789264,
+          41.7482618416274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "SC",
+        "city": "Myrtle Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8853998184951,
+          33.7088862993341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Murrieta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.190924523921,
+          33.5719548377135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TN",
+        "city": "Murfreesboro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4092133294328,
+          35.8508699568334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Moreno Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.204501890448,
+          33.9244314090413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MD",
+        "city": "Montgomery County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2042415681657,
+          39.1363782224114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AL",
+        "city": "Montgomery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2652121666409,
+          32.3474667650395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Montgomery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3673685838642,
+          40.2108628696758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Modesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.002679496407,
+          37.637770487617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AL",
+        "city": "Mobile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1015403228518,
+          30.6675061707733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Miramar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3351501248505,
+          25.9772299616344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MN",
+        "city": "Minneapolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2678448394702,
+          44.9636316641986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WI",
+        "city": "Milwaukee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9672632414484,
+          43.0641730113678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Midland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.113635917814,
+          32.0248717592376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Miami-Dade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4986667610216,
+          25.6089682407964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Miami Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2425245905701,
+          25.9432504970811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Miami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2217589868533,
+          25.7823900825475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Mesquite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5887801986473,
+          32.7621249671775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Mesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.722783512838,
+          33.4044134595635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Menlo Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.148359968771,
+          37.4806451844827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TN",
+        "city": "Memphis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9829125638748,
+          35.1032093017529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Mecklenburg County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8327647634797,
+          35.2468086192777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "McKinney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6683333450354,
+          33.1993702210196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "McAllen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2471241758978,
+          26.2276872851264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NH",
+        "city": "Manchester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.444767135088,
+          42.9845767185858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WI",
+        "city": "Madison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3886749537232,
+          43.0795542240073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "GA",
+        "city": "Macon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6977579357325,
+          32.8065854673338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Lufkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7269131264985,
+          31.3278557160473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "LUFKIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7269131264985,
+          31.3278557160473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Lubbock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.887138729369,
+          33.5642006192972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MA",
+        "city": "Lowell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3217140263818,
+          42.6388709136306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "KY",
+        "city": "Louisville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6590818613416,
+          38.187156908969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Los Angeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.408467834932,
+          34.1182645045751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Long Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.161648021421,
+          33.804622363759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GB",
+        "state": "",
+        "city": "LONDON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.109361061436136,
+          51.5004684044608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AR",
+        "city": "Little Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3584287071748,
+          34.7255106755872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NE",
+        "city": "Lincoln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6805202847808,
+          40.8100949558877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "KY",
+        "city": "Lexington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.458736093181,
+          38.0423289006487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Lewisville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9823420093707,
+          33.0452700116252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NV",
+        "city": "Las Vegas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.260510245195,
+          36.2289287154095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NM",
+        "city": "Las Cruces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.789296717309,
+          32.3264939168342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Laredo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4876015734326,
+          27.5581733645467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MI",
+        "city": "Lansing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5597187876313,
+          42.7140215358764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Lancaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.175243299981,
+          34.6934351438792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Lakewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.116770621155,
+          39.6977972288531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Lakeland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9542508541559,
+          28.0557153452721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IN",
+        "city": "Lake County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3151982724554,
+          41.5406586295921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "LA",
+        "city": "Lafayette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0639344731732,
+          30.2067168007164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TN",
+        "city": "Knoxville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9649519756858,
+          35.9566830847173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "King County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.835827656361,
+          47.4908438945654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "KING COUNTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.835827656361,
+          47.4908438945654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Killeen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7286062685743,
+          31.0757657253626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Kent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.212836390793,
+          47.3887724445187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "KS",
+        "city": "Kansas City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7645004011459,
+          39.1146443514304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "Kansas City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5542311254742,
+          39.1239154781879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Jurupa Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.470551906746,
+          34.001022495355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Joliet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1500120180269,
+          41.5189844272673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NJ",
+        "city": "Jersey City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0638596843454,
+          40.7114357520596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "Jefferson City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1782586865111,
+          38.5533085188255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Jacksonville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6705516553589,
+          30.3319802781886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MS",
+        "city": "Jackson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2122879027918,
+          32.3161189387476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Irving"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9703134048067,
+          32.8583865544776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Irvine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.773780391653,
+          33.6771863800576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Inglewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.344305782781,
+          33.9564070257944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IN",
+        "city": "Indianapolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1384460217862,
+          39.7817472978655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "Independence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3502654407973,
+          39.0870968532119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AL",
+        "city": "Huntsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6410329918033,
+          34.698800252912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Huntington Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.007642652838,
+          33.6908510618599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Houston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3850164891813,
+          29.7837758786149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "HI",
+        "city": "Honolulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.973276214419,
+          21.4587502244971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Hollywood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1677291785226,
+          26.0295314032363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OR",
+        "city": "Hillsboro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.936375575727,
+          45.5278556376241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "High Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9937639991285,
+          35.9901667342563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Hialeah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3045458132913,
+          25.8696293203288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NV",
+        "city": "Henderson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.036107133999,
+          36.0145887890429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Hayward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.104586512407,
+          37.6272861375769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CT",
+        "city": "Hartford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6834578873278,
+          41.7659350387465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Harrisburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8840032450274,
+          40.2753278996031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Hampton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2953598852645,
+          37.0487489658237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OR",
+        "city": "Gresham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.441449439698,
+          45.5023330580177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "SC",
+        "city": "Greenville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3650720297352,
+          34.8364110253114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Greensboro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8271051181531,
+          36.0958463180793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "Greene County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3420085321941,
+          37.2580677423345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WI",
+        "city": "Green Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9896390691126,
+          44.5149184800304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Greeley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.769588707207,
+          40.4149664996919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MI",
+        "city": "Grand Rapids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.655811200977,
+          42.9615367321728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Grand Prairie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0208746613147,
+          32.6868614738806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Glendale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.225725470985,
+          33.5796801257237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Glendale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246752549826,
+          34.1818542984031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Gilbert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.745966910852,
+          33.3079225667121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IN",
+        "city": "Gary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3452080762479,
+          41.595602779137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Garland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6306712006603,
+          32.910058665572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Garden Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.960058024684,
+          33.7787244455307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Gainesville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3457494157161,
+          29.6804686769334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Fullerton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.927908116524,
+          33.8840632404652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Frisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8218725949381,
+          33.1552603824622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Fresno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.795122934054,
+          36.7829108857446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Fremont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.996193210867,
+          37.5246656373291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Fort Worth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3471221416624,
+          32.7786657555225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IN",
+        "city": "Fort Wayne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1437585880057,
+          41.0884829671983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Fort Myers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8300616337469,
+          26.6194606579484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Fort Lauderdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1463783996991,
+          26.1411126801711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Fort Collins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.065830230505,
+          40.5486701812295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Fontana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.459853745529,
+          34.0967694372728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Fayetteville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9791676227169,
+          35.0851309570736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "ND",
+        "city": "Fargo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8290236793456,
+          46.8652214495449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Fairfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.031845845548,
+          38.2593155276665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Fairfax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2999048511569,
+          38.8529885364839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AK",
+        "city": "FAIRBANKS NORTH STAR BOROUGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.562908123051,
+          64.8084544116069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Everett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.188189350963,
+          47.961098990785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IN",
+        "city": "Evansville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5341006000162,
+          37.988145484412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OR",
+        "city": "Eugene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.117455004374,
+          44.056478780159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Escondido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07212381714,
+          33.1347771031545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Erie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0730672775142,
+          42.1164678977521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Elk Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.384119140269,
+          38.416000729051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NJ",
+        "city": "Elizabeth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1911103207241,
+          40.6655326660384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Elgin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3226718200271,
+          42.0384660263759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "El Paso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.436155602016,
+          31.8496866180395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "El Monte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.029071970818,
+          34.0739196632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "El Cajon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.960398950138,
+          32.801670519194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NJ",
+        "city": "Edison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3699590495014,
+          40.5369818088393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Durham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9040640857314,
+          35.9798996687347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Downey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.131150115204,
+          33.9378672510377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MI",
+        "city": "Detroit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1051163671262,
+          42.3847115706155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IA",
+        "city": "Des Moines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6104316058151,
+          41.5725031884151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Denver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.876344658283,
+          39.7618284169146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Denton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.141222565429,
+          33.216464987548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Delaware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.399033527915,
+          39.9166978025274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OH",
+        "city": "Dayton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1998023668012,
+          39.7797607738844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Davie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2870684698899,
+          26.0788465949471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IA",
+        "city": "Davenport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.60520123572,
+          41.5557647509896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Dauphin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7794206123781,
+          40.4154399358924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Daly City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.468460566252,
+          37.6862644693961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Dallas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7943656822226,
+          32.7810938713316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Costa Mesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.913488224627,
+          33.6666821071583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Corpus Christi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2856689209542,
+          27.730777120553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Corona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.564350696406,
+          33.8619915300601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Coral Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2592232702004,
+          26.2701756000305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Cook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8167543131613,
+          41.8400832845437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Concord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.001620922991,
+          37.972191580684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "GA",
+        "city": "Columbus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9109986582694,
+          32.5288581066848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OH",
+        "city": "Columbus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9850078120387,
+          39.9861710531357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3258613935644,
+          38.9478675953446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "SC",
+        "city": "Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.904890702474,
+          34.0368596504663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Colorado Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.760593036194,
+          38.867408090057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "College Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2959455101368,
+          30.5852748905981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MO",
+        "city": "Cole County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2816751803756,
+          38.5053365261037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Clovis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.683745582526,
+          36.8273413386773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OH",
+        "city": "Cleveland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6801932069869,
+          41.4772385492813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Clearwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.766562620496,
+          27.9789412794229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TN",
+        "city": "Clarksville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3425132877337,
+          36.5695432298036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OH",
+        "city": "Cincinnati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.505915298459,
+          39.1412705690365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Chula Vista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.014126665555,
+          32.6277564727272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6860650993327,
+          41.8372113460434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Chester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7484332994858,
+          39.9732178954787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Chesapeake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3024182871377,
+          36.677744495708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TN",
+        "city": "Chattanooga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2491264424266,
+          35.0650569107798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Charlotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8307827684958,
+          35.207974876529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "SC",
+        "city": "Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9761082602842,
+          32.8059210047953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AZ",
+        "city": "Chandler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.851691848383,
+          33.2826751914448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Centennial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.867285523484,
+          39.5926199795141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IA",
+        "city": "Cedar Rapids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6781665826543,
+          41.9667329912893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NC",
+        "city": "Cary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8165912006002,
+          35.7813564973399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Carrollton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9000757206528,
+          32.9884518481437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Carlsbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.283537125278,
+          33.1245545859292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Cape Coral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9957178334765,
+          26.6444172616271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MA",
+        "city": "Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1183737849265,
+          42.3757984497285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "Callaway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5592277280643,
+          30.1357842926746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "FL",
+        "city": "CALLAWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5592277280643,
+          30.1357842926746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VT",
+        "city": "Burlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2256398971216,
+          44.4909620033925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Burbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.323414806917,
+          34.1879653588014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NY",
+        "city": "Buffalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8474192426429,
+          42.901914761764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Bucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1068197404598,
+          40.3368861357464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Brownsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4566578643804,
+          25.9981391473822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OK",
+        "city": "Broken Arrow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7809541460689,
+          36.0366184998802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CT",
+        "city": "Bridgeport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1959181818062,
+          41.1929901746919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Boulder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.251550810652,
+          40.0272930114512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MA",
+        "city": "Boston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0938471526625,
+          42.3146765011063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "ID",
+        "city": "Boise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2317299586,
+          43.6005449201152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AL",
+        "city": "Birmingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7975472086311,
+          33.527382773249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MT",
+        "city": "Billings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.550234782603,
+          45.7890358463413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Berkeley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.275208834482,
+          37.8724225472454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "WA",
+        "city": "Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.155046579526,
+          47.5953193040164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Beaumont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1450460663048,
+          30.0849203830641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "LA",
+        "city": "Baton Rouge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.095444832441,
+          30.5381012812651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MD",
+        "city": "Baltimore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6106592723807,
+          39.3010009780246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Bakersfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.035582690455,
+          35.3527452210916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Austin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7528616656196,
+          30.3010646976532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Aurora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.727443016554,
+          39.7083952671933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "IL",
+        "city": "Aurora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2901436067284,
+          41.7637805703537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "GA",
+        "city": "Augusta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.073584298638,
+          33.3596305719343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NJ",
+        "city": "Atlantic City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.460419906486,
+          39.3874037316754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "GA",
+        "city": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4221249118524,
+          33.7635965404789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "GA",
+        "city": "Athens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3674890810924,
+          33.951261326464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CO",
+        "city": "Arvada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.150989179744,
+          39.8320526350914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Arlington County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.101017493324,
+          38.8785851111084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Arlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.125515907669,
+          32.6989735694612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Antioch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.795726425099,
+          37.9789012633387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "MI",
+        "city": "Ann Arbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7310936648486,
+          42.2767686457034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "AK",
+        "city": "Anchorage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.109399682086,
+          61.1503983774842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "CA",
+        "city": "Anaheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.857613464626,
+          33.8389076995022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Amarillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.830787526227,
+          35.1988275098094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Allentown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4755418471669,
+          40.5961003588033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Allegheny County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9811981050458,
+          40.4687861116546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "PA",
+        "city": "Allegheny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9811981050458,
+          40.4687861116546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "VA",
+        "city": "Alexandria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0861700574738,
+          38.8183741860603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "NM",
+        "city": "Albuquerque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.646450817587,
+          35.105360538341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "OH",
+        "city": "Akron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.521937407805,
+          41.0798324310184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "US",
+        "state": "TX",
+        "city": "Abilene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7384004427919,
+          32.4542801997807
+        ]
+      }
+    }
+  ]
+}
